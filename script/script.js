@@ -48,7 +48,7 @@ const citiesByState = {
     "Tripura": ["Agartala", "Udaipur", "Dharmanagar", "Kailashahar", "Belonia"],
     "Uttarakhand": ["Dehradun", "Haridwar", "Nainital", "Rishikesh", "Haldwani", "Almora"],
     "Uttar Pradesh": ["Lucknow", "Kanpur", "Agra", "Varanasi", "Prayagraj", "Meerut"],
-    "West Bengal": ["Kolkata", "Durgapur", "Asansol", "Siliguri", "Howrah", "Darjeeling"]
+    "West Bengal": ["Kolkata","Bardhaman", "Durgapur", "Asansol", "Siliguri", "Howrah", "Darjeeling"]
 };
 
 
@@ -56,7 +56,8 @@ const donors = [
     { name: "Arpan Dey", contact: "9876543210", state: "West Bengal", city: "Kolkata", bloodGroup: "A+" },
     { name: "Sonai Kesh ", contact: "9876543210", state: "West Bengal", city: "Durgapur", bloodGroup: "B+" },
     { name: "Arpan", contact: "9876543210", state: "West Bengal", city: "Asansol", bloodGroup: "O+" },
-    { name: "Sonai ", contact: "9876543210", state: "West Bengal", city: "Durgapur", bloodGroup: "A+" } 
+    { name: "Prapti Nag", contact: "9876543210", state: "West Bengal", city: "Bardhaman", bloodGroup: "O+" },
+    { name: "Ranit Kr. Dey", contact: "9876543210", state: "West Bengal", city: "Siliguri", bloodGroup: "A+" } 
 ];
 
 
